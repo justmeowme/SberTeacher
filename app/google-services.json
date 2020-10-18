@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033575083394",
+    "firebase_url": "https://sberteacher.firebaseio.com",
+    "project_id": "sberteacher",
+    "storage_bucket": "sberteacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033575083394:android:2e4f2857438aa6b42ff39b",
+        "android_client_info": {
+          "package_name": "com.example.sberteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033575083394-54ir8bmtv08fs4kf4t530sd6tobq9sfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sberteacher",
+            "certificate_hash": "f4d9d4a6ba44f45b1e8e735f8db00edd921b174e"
+          }
+        },
+        {
+          "client_id": "1033575083394-nhf5h57k3rp462gpt00lt0jvf6l3u84f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC143s6AU0aWtT2lW_0I7pFLB35V7pmc0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033575083394-nhf5h57k3rp462gpt00lt0jvf6l3u84f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
